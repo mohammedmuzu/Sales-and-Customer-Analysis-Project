@@ -1,4 +1,4 @@
-# (Sales and Customer Analysis Project)
+# Sales and Customer Analysis Project
 
 Intorduction
 
