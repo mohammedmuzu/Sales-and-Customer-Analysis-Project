@@ -27,7 +27,7 @@ Product Subcategory Comparison
 
 Weekly Trends for Sales & Profit
 
-– Present weekly sales and profit data for the current year.
+ – Present weekly sales and profit data for the current year.
 
  – Display the average weekly values.
 
@@ -50,7 +50,7 @@ Customer Trends
 
 Customer Distribution by Number of Orders
 
- - Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
+ – Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
 
 Top 10 Customers By Profit
 
